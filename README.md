@@ -3,8 +3,8 @@
 <table>
   <tr>
     <td>
-      <h3>🚀 About Me</h3>
-      Physicist | M.Sc. in Physics of Data | A.I. enthusiast <br>Feel free to take a look at my repositories and projects, let's get in touch!
+      <h3>🚀 About Me</h3><br>
+      Physicist | M.Sc. in Physics of Data | A.I. enthusiast <br><br>Feel free to take a look at my repositories and projects, let's get in touch!
     </td>
     <td>
       <img align="right" src="https://github-readme-stats.vercel.app/api?username=Filippo-Festa&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
