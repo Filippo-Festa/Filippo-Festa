@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Welcome to my GitHub profile
 🔭 Physicist<br>🌱 M.Sc. in Physics of Data<br>⚡ A.I. enthusiast
 
 
