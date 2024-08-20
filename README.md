@@ -4,15 +4,14 @@
   <tr>
     <td>
       <h3>🚀 About Me</h3>
-      Physicist | M.Sc. in Physics of Data | A.I. enthusiast
-
-      Feel free to take a look at my repositories and projects, let's get in touch!
+      Physicist | M.Sc. in Physics of Data | A.I. enthusiast <br>Feel free to take a look at my repositories and projects, let's get in touch!
     </td>
     <td>
       <img align="right" src="https://github-readme-stats.vercel.app/api?username=Filippo-Festa&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
     </td>
   </tr>
 </table>
+
 
 <!-- ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/filippo-festa-b5829b245/) -->
