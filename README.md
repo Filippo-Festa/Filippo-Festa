@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <h3>🚀 About Me</h3><br>
+      <h3>🚀 About Me</h3>
       Physicist | M.Sc. in Physics of Data | A.I. enthusiast <br><br>Feel free to take a look at my repositories and projects, let's get in touch!
     </td>
     <td>
