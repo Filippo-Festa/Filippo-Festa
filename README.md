@@ -6,7 +6,7 @@
       <h3>🚀 About Me</h3>
       Physicist | M.Sc. in Physics of Data | A.I. enthusiast <br><br>Feel free to take a look at my repositories and projects, let's get in touch!
     </td>
-    <td valign="top" width="50%">
+    <td>
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filippo-Festa&layout=compact&theme=vue-dark&hide_border=true"/>
     </td>
     <td>
