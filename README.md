@@ -18,7 +18,7 @@
 
 <table>
   <tr>
-    <td style="width: 60%;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filippo-Festa&layout=compact&theme=vue-dark&hide_border=true" /></td>
+    <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filippo-Festa&layout=compact&theme=vue-dark&hide_border=true" /></td>
     <td>
       <h3>💻 Tech Stack:</h3>
       <p>
