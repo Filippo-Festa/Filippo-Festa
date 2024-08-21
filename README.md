@@ -16,7 +16,7 @@
 <!-- ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/filippo-festa-b5829b245/) -->
 
-<table>
+<table  width="100%">
   <tr>
     <td style="width: 50%; vertical-align: top;">
       <h3>💻 Tech Stack:</h3>
