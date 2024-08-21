@@ -19,9 +19,6 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filippo-Festa&layout=compact&theme=vue-dark&hide_border=true" width="5000" />
-    </td>
-    <td>
       <h3>💻 Tech Stack:</h3>
       <p>
         <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -47,5 +44,6 @@
         <img src="https://img.shields.io/badge/Jupyter%20Notebook-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
       </p>
     </td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filippo-Festa&layout=compact&theme=vue-dark&hide_border=true" width="3000" /></td>
   </tr>
 </table>
