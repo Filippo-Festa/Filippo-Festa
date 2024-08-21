@@ -16,9 +16,6 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filippo-Festa&layout=compact&theme=vue-dark&hide_border=true"/>
-    </td>
-    <td valign="top" width="50%">
       <p align="left">
         ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
         ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
@@ -40,6 +37,9 @@
         ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
         ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
       </p>
+    </td>
+    <td valign="top" width="50%">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filippo-Festa&layout=compact&theme=vue-dark&hide_border=true"/>
     </td>
   </tr>
 </table>
