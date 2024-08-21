@@ -18,10 +18,10 @@
 
 <table width="100%">
   <tr>
-    <td style="width: 50%; vertical-align: top;">
+    <td style="width: 50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filippo-Festa&layout=compact&theme=vue-dark&hide_border=true" style="width: 100%; height: auto;" />
     </td>
-    <td style="width: 50%; vertical-align: top;">
+    <td style="width: 50%">
       <h3>💻 Tech Stack:</h3>
       <p>
         <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
