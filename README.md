@@ -7,9 +7,6 @@
       Physicist | M.Sc. in Physics of Data | A.I. enthusiast <br><br>Feel free to take a look at my repositories and projects, let's get in touch!
     </td>
     <td>
-      <img align="right" src="https://github-readme-stats.vercel.app/api?username=Filippo-Festa&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
-    </td>
-    <td>
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filippo-Festa&layout=compact&theme=vue-dark&hide_border=true"/>
     </td>
   </tr>
