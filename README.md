@@ -16,7 +16,6 @@
 <!-- ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/filippo-festa-b5829b245/) -->
 
-<br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filippo-Festa&layout=compact&theme=vue-dark&hide_border=true"/>
 
 ### 💻 Tech Stack:
