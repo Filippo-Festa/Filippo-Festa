@@ -45,6 +45,6 @@
         <img src="https://img.shields.io/badge/Jupyter%20Notebook-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
       </p>
     </td>
-    <td style="width: 50%; vertical-align: middle;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filippo-Festa&layout=compact&theme=vue-dark&hide_border=true" width="2000" /></td>
+    <td style="width: 50%; vertical-align: middle;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filippo-Festa&layout=compact&theme=vue-dark&hide_border=true" width="1500" /></td>
   </tr>
 </table>
